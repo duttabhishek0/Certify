@@ -150,7 +150,7 @@ notebook @ file:///tmp/build/80754af9/notebook_1616443462982/work
 ntlm-auth==1.5.0
 numba @ file:///tmp/build/80754af9/numba_1616774046117/work
 numexpr @ file:///tmp/build/80754af9/numexpr_1618856167419/work
-numpy==1.19.4
+numpy==1.22.0
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 oauth2client==4.1.3
 olefile==0.46
